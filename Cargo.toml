@@ -1,0 +1,9 @@
+[package]
+name = "brick_breaker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+avian2d = "0.1.2"
+bevy = "0.14.2"
+leafwing-input-manager = "0.15.1"
